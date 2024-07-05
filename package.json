@@ -2,6 +2,7 @@
   "name": "meta-portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://saudiftikhaar.github.io/saudPortfolio",
   "dependencies": {
     "@chakra-ui/react": "^2.8.2",
     "@emotion/react": "^11.11.4",
