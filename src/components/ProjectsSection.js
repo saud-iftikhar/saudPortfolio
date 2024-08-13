@@ -13,21 +13,21 @@ const projects = [
  { 
    title: "React Infinite Scroll", 
    description: 
-     "A scrollable bottom sheet with virtualisation support, native animations at 60 FPS and fully implemented in JS land 🔥️", 
-   getImageSrc: () => require(""), 
+     "Movies Recommendation App", 
+   getImageSrc: () => require("../images/photo2.png"), 
  }, 
- { 
-   title: "Photo Gallery", 
-   description: 
-     "A One-stop shop for photographers to share and monetize their photos, allowing them to have a second source of income", 
-   getImageSrc: () => require(""), 
- }, 
- { 
-   title: "Event planner", 
-   description: 
-     "A mobile application for leisure seekers to discover unique events and activities in their city with a few taps", 
-   getImageSrc: () => require(""), 
- }, 
+//  { 
+//    title: "Photo Gallery", 
+//    description: 
+//      "A One-stop shop for photographers to share and monetize their photos, allowing them to have a second source of income", 
+//    getImageSrc: () => require(""), 
+//  }, 
+//  { 
+//    title: "Event planner", 
+//    description: 
+//      "A mobile application for leisure seekers to discover unique events and activities in their city with a few taps", 
+//    getImageSrc: () => require(""), 
+//  }, 
 ]; 
  
 const ProjectsSection = () => { 
