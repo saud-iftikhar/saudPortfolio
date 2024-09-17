@@ -5,13 +5,13 @@ import Card from "./Card";
  
 const projects = [ 
  { 
-   title: "React Space", 
+   title: "React Application", 
    description: 
      "FitClub Gym Website",
   getImageSrc: () => require("../images/photo1.png"), 
  }, 
  { 
-   title: "React Infinite Scroll", 
+   title: "React Application", 
    description: 
      "Movies Recommendation App", 
    getImageSrc: () => require("../images/photo2.png"), 
